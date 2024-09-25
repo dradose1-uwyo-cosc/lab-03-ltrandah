@@ -13,7 +13,7 @@ states = ["Wyoming", "Colorado", "Montana"]
 print(states)
 print(states[0])
 print(states[-1])
-statement = f"{states[1].upper()} is south of {states[0].uppper()}."
+statement = f"{states[1].upper()} is south of {states[0].upper()}."
 print(statement)
 #We are going to start with the basics. Declare a list  states that contains the elements: Wyoming, Colorado, Montana in that order 
 #Note this is the ONLY point where you need to declare the states list
